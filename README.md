@@ -1,6 +1,6 @@
 # Movie-app
 
-Merhaba, Sizlere Movie App projisini sizlerle paylaşıyorum.
+Merhaba, Movie App projisini sizlerle paylaşıyorum.
 
 İçerisinde api den gelen farklı kategorilerin aksiyon, macera, korku gibi gösterilen bir projedir.
 
